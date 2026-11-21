@@ -1,0 +1,6 @@
+{
+  "name": "CBT MA Nurul Hijrah",
+  "description": "Portal Ujian Online CBT MA Nurul Hijrah modern bergaya Apple iOS Glassmorphism dengan sinkronisasi real-time, Live Proctoring WebRTC, Smart AI Parser, dan Asisten Virtual Pet.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

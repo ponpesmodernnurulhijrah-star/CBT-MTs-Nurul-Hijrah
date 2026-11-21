@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="nhGrad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#065f46" />
+      <stop offset="55%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#nhGrad)" />
+  <circle cx="64" cy="64" r="44" stroke="rgba(255,255,255,0.88)" stroke-width="5" />
+  <path
+    d="M64 28L72.5 47.5L93.5 49.5L78 63.5L82.5 84.5L64 73.5L45.5 84.5L50 63.5L34.5 49.5L55.5 47.5L64 28Z"
+    fill="rgba(236,253,245,0.95)"
+  />
+  <circle cx="64" cy="60" r="9" fill="#047857" />
+</svg>
